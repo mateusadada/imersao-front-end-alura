@@ -2,7 +2,7 @@
 > This PROJECT and REPOSITORY are under development.
 
 <h1 align="center">Imersão Front-End - Alura</h1>
-<div align="center"><i>A website inspired by Spotify</i><br><br>
+<div align="center"><i>Recreating Spotify's homepage</i><br><br>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/imersaoFrontEnd-Alura" alt="Stars Badge"/></a>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/network/members"><img src="https://img.shields.io/github/forks/mateusadada/imersaoFrontEnd-Alura" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/imersaoFrontEnd-Alura" alt="Pull Requests Badge"/></a>
