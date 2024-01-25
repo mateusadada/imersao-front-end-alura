@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This PROJECT and REPOSITORY are under development.
 
-<h1 align="center">Imersão Front-End - Alura</h1>
+<h1 align="center">1º Imersão Front-End - Alura</h1>
 <div align="center"><i>Recreating Spotify's homepage</i><br><br>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/imersaoFrontEnd-Alura" alt="Stars Badge"/></a>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/network/members"><img src="https://img.shields.io/github/forks/mateusadada/imersaoFrontEnd-Alura" alt="Forks Badge"/></a>
