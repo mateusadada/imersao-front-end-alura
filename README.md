@@ -23,26 +23,31 @@
 
 ## 🚀 Starting
 
-> [!NOTE]
-> In development.
+This repository hosts [the final project](https://mateusadada.github.io/imersaoFrontEnd-Alura/) of the Front-End Immersion promoted by [Alura](https://www.alura.com.br/). The project consists of creating a website inspired by the visual of [Spotify's homepage](https://open.spotify.com/), a music streaming platform. Using HTML, CSS, and JavaScript, the project aims to develop skills in creating complex layouts with CSS Grid, implementing responsiveness with media queries, and manipulating the DOM to add interactivity to the page.
+
+The main objective is to enhance knowledge in web development, applying concepts learned in the immersion classes. The website features functionalities such as artist search and playlist display, using a fake API created with the help of json-server.
 
 ## 📚 Features
 
 Used during the evolution of the website:
 
-> [!NOTE]
-> In development.
+- Implementation of a layout inspired by the visual of Spotify, with a sidebar navigation and a main content section.
+- Implementation of media queries to make the website responsive on different screen sizes.
+- Use of icons from the Font Awesome library to add stylized icons to the elements of the website.
+- Organization of the code into separate files, such as HTML, CSS, and JavaScript, to facilitate code maintenance and readability.
+- Display of information about searched artists, such as name and image, using JavaScript and DOM manipulation.
 
 ## 🛠️ Built with
 
 > [!NOTE]
 > In development.
 
-* [HTML5](https://en.wikipedia.org/wiki/HTML5) - The markup language for structuring content on the web
-* [CSS3](https://en.wikipedia.org/wiki/CSS) - Utilized for enhancing the visual presentation
-* [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - The scripting language applied for adding interactivity and dynamic features
-* [React](https://react.dev/) - 
-* [Angular](https://angular.io/) -
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used to structure the page content, defining the elements and their hierarchical organization.
+* [CSS3](https://en.wikipedia.org/wiki/CSS) - Employed to style and visually enhance HTML elements, such as colors, fonts, sizes, positioning, and animations.
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Utilized to add interactivity to the page, allowing manipulation of the DOM, creation of events, and execution of functions.
+* [json-server](https://www.npmjs.com/package/json-server) - Tool to create a fake API and simulate data consumption.
+* [React](https://react.dev/) - **Waiting for lesson 5**
+* [Angular](https://angular.io/) - **Waiting for lesson 5**
 
 ## ✒️ Author
 
