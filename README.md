@@ -39,9 +39,6 @@ Used during the evolution of the website:
 
 ## 🛠️ Built with
 
-> [!NOTE]
-> In development.
-
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used to structure the page content, defining the elements and their hierarchical organization.
 * [CSS3](https://en.wikipedia.org/wiki/CSS) - Employed to style and visually enhance HTML elements, such as colors, fonts, sizes, positioning, and animations.
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Utilized to add interactivity to the page, allowing manipulation of the DOM, creation of events, and execution of functions.
