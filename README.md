@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This PROJECT and REPOSITORY are under development.
+> This PROJECT is under development.
 
 <h1 align="center">1ª Imersão Front-End - Alura</h1>
 <div align="center"><i>Recreating Spotify's homepage</i><br><br>
@@ -46,8 +46,7 @@ Used during the evolution of the website:
 * [CSS3](https://en.wikipedia.org/wiki/CSS) - Employed to style and visually enhance HTML elements, such as colors, fonts, sizes, positioning, and animations.
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Utilized to add interactivity to the page, allowing manipulation of the DOM, creation of events, and execution of functions.
 * [json-server](https://www.npmjs.com/package/json-server) - Tool to create a fake API and simulate data consumption.
-* [React](https://react.dev/) - **Waiting for lesson 5**
-* [Angular](https://angular.io/) - **Waiting for lesson 5**
+* [React](https://react.dev/) - Employed to create and organize the application's components, such as the Header, Player, and Playlists. Additionally, it was responsible for managing the application's state, enabling dynamic updates to the interface.
 
 ## ✒️ Author
 
