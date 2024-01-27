@@ -42,8 +42,7 @@ Used during the evolution of the website:
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used to structure the page content, defining the elements and their hierarchical organization.
 * [CSS3](https://en.wikipedia.org/wiki/CSS) - Employed to style and visually enhance HTML elements, such as colors, fonts, sizes, positioning, and animations.
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Utilized to add interactivity to the page, allowing manipulation of the DOM, creation of events, and execution of functions.
-* [React](https://react.dev/) - Employed to create and organize the application's components, such as the Header, Player, and Playlists. Additionally, it was responsible for managing the application's state, enabling dynamic updates to the interface.
-  * [json-server](https://www.npmjs.com/package/json-server) - Tool to create a fake API and simulate data consumption.
+* [json-server](https://www.npmjs.com/package/json-server) - Tool to create a fake API and simulate data consumption.
 
 ## ✒️ Author
 
