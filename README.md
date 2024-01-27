@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> This PROJECT is under development.
-
 <h1 align="center">1ª Imersão Front-End - Alura</h1>
 <div align="center"><i>Recreating Spotify's homepage</i><br><br>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/imersaoFrontEnd-Alura" alt="Stars Badge"/></a>
