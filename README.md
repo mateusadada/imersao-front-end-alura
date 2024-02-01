@@ -1,4 +1,4 @@
-<h1 align="center">1ª Imersão Front-End - Alura</h1>
+<h1 align="center">First immersion Front-End - Alura</h1>
 <div align="center"><i>Recreating Spotify's homepage</i><br><br>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/imersaoFrontEnd-Alura" alt="Stars Badge"/></a>
 <a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/network/members"><img src="https://img.shields.io/github/forks/mateusadada/imersaoFrontEnd-Alura" alt="Forks Badge"/></a>
