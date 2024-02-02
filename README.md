@@ -1,13 +1,13 @@
 <h1 align="center">First immersion Front-End - Alura</h1>
 <div align="center"><i>Recreating Spotify's homepage</i><br><br>
-<a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/imersaoFrontEnd-Alura" alt="Stars Badge"/></a>
-<a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/network/members"><img src="https://img.shields.io/github/forks/mateusadada/imersaoFrontEnd-Alura" alt="Forks Badge"/></a>
-<a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/imersaoFrontEnd-Alura" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/issues"><img src="https://img.shields.io/github/issues/mateusadada/imersaoFrontEnd-Alura" alt="Issues Badge"/></a>
-<a href="https://github.com/imersaoFrontEnd-Alura"><img src="https://komarev.com/ghpvc/?username=imersaoFrontEnd-Alura&color=447ff7&label=views" alt="Views count Badge"/></a>
-<br><a href="https://mateusadada.github.io/imersaoFrontEnd-Alura" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2FimersaoFrontEnd-Alura&logo=github" /></a>
-<a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/imersaoFrontEnd-Alura?color=2b9348"></a>
-<a href="https://github.com/mateusadada/imersaoFrontEnd-Alura/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/imersaoFrontEnd-Alura?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/mateusadada/imersao-front-end-alura/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/imersao-front-end-alura" alt="Stars Badge"/></a>
+<a href="https://github.com/mateusadada/imersao-front-end-alura/network/members"><img src="https://img.shields.io/github/forks/mateusadada/imersao-front-end-alura" alt="Forks Badge"/></a>
+<a href="https://github.com/mateusadada/imersao-front-end-alura/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/imersao-front-end-alura" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/mateusadada/imersao-front-end-alura/issues"><img src="https://img.shields.io/github/issues/mateusadada/imersao-front-end-alura" alt="Issues Badge"/></a>
+<a href="https://github.com/imersao-front-end-alura"><img src="https://komarev.com/ghpvc/?username=imersao-front-end-alura&color=447ff7&label=views" alt="Views count Badge"/></a>
+<br><a href="https://mateusadada.github.io/imersao-front-end-alura" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2Fimersao-front-end-alura&logo=github" /></a>
+<a href="https://github.com/mateusadada/imersao-front-end-alura/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/imersao-front-end-alura?color=2b9348"></a>
+<a href="https://github.com/mateusadada/imersao-front-end-alura/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/imersao-front-end-alura?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ## 📜 Table of contents
@@ -20,7 +20,7 @@
 
 ## 🚀 Starting
 
-This repository hosts [the final project](https://mateusadada.github.io/imersaoFrontEnd-Alura/) of the Front-End Immersion promoted by [Alura](https://www.alura.com.br/). The project consists of creating a website inspired by the visual of [Spotify's homepage](https://open.spotify.com/), a music streaming platform. Using HTML, CSS, and JavaScript, the project aims to develop skills in creating complex layouts with CSS Grid, implementing responsiveness with media queries, and manipulating the DOM to add interactivity to the page.
+This repository hosts [the final project](https://mateusadada.github.io/imersao-front-end-alura/) of the Front-End Immersion promoted by [Alura](https://www.alura.com.br/). The project consists of creating a website inspired by the visual of [Spotify's homepage](https://open.spotify.com/), a music streaming platform. Using HTML, CSS, and JavaScript, the project aims to develop skills in creating complex layouts with CSS Grid, implementing responsiveness with media queries, and manipulating the DOM to add interactivity to the page.
 
 The main objective is to enhance knowledge in web development, applying concepts learned in the immersion classes. The website features functionalities such as artist search and playlist display, using a fake API created with the help of json-server.
 
@@ -45,10 +45,10 @@ Used during the evolution of the website:
 
 * **Mateus Adada** - *Developer and documentation* - [mateusadada](https://github.com/mateusadada)
 
-You can also see the list of all [collaborators](https://github.com/mateusadada/imersaoFrontEnd-Alura/graphs/contributors) who participated in this project.
+You can also see the list of all [collaborators](https://github.com/mateusadada/imersao-front-end-alura/graphs/contributors) who participated in this project.
 
 ## 📄 License
 
-This project is under the license MIT. See the [LICENSE.md](https://github.com/mateusadada/imersaoFrontEnd-Alura/blob/main/LICENSE) file for more details.
+This project is under the license MIT. See the [LICENSE.md](https://github.com/mateusadada/imersao-front-end-alura/blob/main/LICENSE) file for more details.
 
 <hr><p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
