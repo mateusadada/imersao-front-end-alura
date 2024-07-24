@@ -5,7 +5,7 @@
 <a href="https://github.com/mateusadada/imersao-front-end-alura/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/imersao-front-end-alura" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mateusadada/imersao-front-end-alura/issues"><img src="https://img.shields.io/github/issues/mateusadada/imersao-front-end-alura" alt="Issues Badge"/></a>
 <a href="https://github.com/mateusadada/imersao-front-end-alura"><img src="https://komarev.com/ghpvc/?username=imersao-front-end-alura&color=447ff7&label=views" alt="Views count Badge"/></a>
-<br><a href="https://mateusadada.github.io/imersao-front-end-alura" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2Fimersao-front-end-alura&logo=github" /></a>
+<br><a href="https://primeira-imersao-front-end-alura.vercel.app/" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2Fimersao-front-end-alura&logo=github" /></a>
 <a href="https://github.com/mateusadada/imersao-front-end-alura/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/imersao-front-end-alura?color=2b9348"></a>
 <a href="https://github.com/mateusadada/imersao-front-end-alura/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/imersao-front-end-alura?color=2b9348" alt="License Badge"/></a>
 </div>
